@@ -6,7 +6,4 @@ Ferramenta de controle de Versão:
 *Perforce
 *CVS
 *Source Safe
-*SVN
-*Mercyruak
-*Git
-*Visual Studio Team Services
+
