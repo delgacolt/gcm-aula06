@@ -4,7 +4,7 @@ Ferramenta de controle de Versão:
 
 *RCV
 *Source Safe
-*SVN
+*Clear Case
 *Mercurial
 *GitHub
 *BitBucket
