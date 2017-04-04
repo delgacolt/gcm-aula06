@@ -3,8 +3,7 @@
 Ferramenta de controle de Versão:
 
 *RCV
+*Perforce
+*CVS
 *Source Safe
-*Clear Case
-*Mercurial
-*Performance
-*BitBucket
+
