@@ -6,5 +6,5 @@ Ferramenta de controle de Versão:
 *Source Safe
 *SVN
 *Mercurial
-*GitHub
+*Performance
 *BitBucket
